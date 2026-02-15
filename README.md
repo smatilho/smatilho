@@ -26,8 +26,6 @@ Full-stack engineer building enterprise security platforms by day, AI tools and 
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
