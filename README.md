@@ -1,4 +1,4 @@
-## Hey, I'm Steven Atilho👋
+## Steven Atilho
 
 Full-stack engineer building enterprise security platforms by day, AI tools and homelab infrastructure by night.
 
